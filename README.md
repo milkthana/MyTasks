@@ -1,4 +1,4 @@
-# mytasks
+# MyTasks
 
 Simple to do app with more feature
 
