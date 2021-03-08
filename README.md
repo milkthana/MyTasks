@@ -1,6 +1,6 @@
 # MyTasks
 
-Simple to do app which belong to ITCS424_Wireless and Mobile Computing
+Simple to do app project which belong to ITCS424_Wireless and Mobile Computing
 
 # Overview
 
