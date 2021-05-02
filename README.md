@@ -21,3 +21,6 @@ The user can swipe up to add more tarks.
 
 
 <img src="https://github.com/milkzu/MyTasks/blob/main/ui2.JPG" alt="My Tasks Lists">
+
+
+<img src="https://github.com/milkzu/MyTasks/blob/main/ui3.JPG" alt="My Tasks Lists">
