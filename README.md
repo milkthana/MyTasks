@@ -17,6 +17,9 @@ At first, we tried to implement the task lists but we are unable to make it work
 This is the new version of our MyTasks first and only page. The selected date would be the light green color and the another will show the today date. 
 The user can swipe up to add more tarks. 
 
+# NEW VERSION
+Color changed
+
 <img src="https://github.com/milkzu/MyTasks/blob/main/ui1.JPG" alt="My Tasks Calendar v2">
 
 
